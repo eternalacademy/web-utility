@@ -3,7 +3,7 @@ This project is meant to provide web utility features like common helper methods
 
 ## Installation
 Install the package via npm using following command -<br/>
-`npm install @eternalacademy/web-utility --save`
+`npm install @eternal-academy/web-utility --save`
 
 ## Components
 Components are created as generic web components that can be consumed in any web project.
